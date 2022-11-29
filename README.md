@@ -1,1 +1,1 @@
-# harjoittelut
+# Coursera-harjoittelut tässä repossa
